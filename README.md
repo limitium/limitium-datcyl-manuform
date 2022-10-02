@@ -1,5 +1,7 @@
 # Limitium' dactyl manuform
-Usable dactyl manuform with integrated hand rest
+Default is great, however I didn't find a way to use it without hand rests. 
+
+This build solves the problem of the missing hand rests.
 
 ![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220822.jpg)
 ![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220822_8.jpg)
@@ -33,39 +35,83 @@ Usable dactyl manuform with integrated hand rest
 
 
 ## Body
-Dactyl manuform with a minor tuning https://github.com/limitium/dactyl-manuform
+Different body types and modifications were tried, but ended up with a carbonfet fork of Dactyl manuform with minor tuning of the thumb cluster https://github.com/limitium/dactyl-manuform
 
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211014.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211106.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211109.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211111.jpg)
 
-## Keycups
+### Handrest
+Integrated plate is made from dactyl manufrom back plate and hand rest model
+
+![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220511.jpg)
+![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220511_2.jpg)
+![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220512.jpg)
+![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220513.jpg)
+![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220517.jpg)
+
+### Promicro holder
+
+The last type-c Promicro controller is slightly longer, so a new version of the holder is required.
+
+New version is a clue-less click-in holder for TRRS jack and type-c Promicro
+
+![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/promicro_holder.png)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220517_2.jpg)
+
+## Keycaps
+
+Dactyl manufrom was designed for a SA like profile for additional curvature. Any profile for SA family can be taken.
 
 ### ASA profile
 
+SA profile is too tall for my taste, so switched to ASA.
+
 #### Carbon Retro Keycap Set from Akko
+It makes no sense to buy the whole set if a resin printer is available.
+
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211008.jpg)
 
 #### Custom KeyV2 
-from https://github.com/rsheldiii/KeyV2
-with https://www.ffonts.net/Gorton-Digital-Regular.font font for chars and https://github.com/dakotafelder/open-gorton font for specials
+Missing keycaps are printed on resin printer and modeled via https://github.com/rsheldiii/KeyV2 project, with https://www.ffonts.net/Gorton-Digital-Regular.font font for chars and https://github.com/dakotafelder/open-gorton font for specials keys.
+
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220428.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220501.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220519_2.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220123.jpg)
-![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/thumb_model.png)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220428_2.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220519_2.jpg)
 
+For thumb cluster g20 low profile is used.
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/thumb_model.png)
+
 ## Wiring
-Default QMK split wiring https://docs.qmk.fm/#/feature_split_keyboard
+Default QMK split wiring https://docs.qmk.fm/#/feature_split_keyboard with diods and naked wires. The rows and columns are connected to a Promicro controller with XH2.54 connectors
+
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/wiring.jpg)
+
+
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211112_3.jpg)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211112_4.jpg)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211112_5.jpg)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211112_6.jpg)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211113_2.jpg)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211113_3.jpg)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211113.jpg)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211121_4.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20211203_3.jpg)
-![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220517_2.jpg)
+
+
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220507.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220518.jpg)
 
 ## Firmware
-QMK firmware with custom keyboard https://github.com/limitium/qmk_firmware/tree/master/keyboards/handwired/dactyl_lim_5x7
+QMK firmware for split keyboard
+
+with custom keyboard https://github.com/limitium/qmk_firmware/tree/master/keyboards/handwired/dactyl_lim_5x7
+
+Handedness by EEPROM
+
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/layout_firmware.png)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220519.jpg)
