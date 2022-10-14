@@ -108,9 +108,11 @@ Default QMK split wiring https://docs.qmk.fm/#/feature_split_keyboard with diods
 ## Firmware
 QMK firmware for split keyboard
 
-with a custom keyboard https://github.com/limitium/qmk_firmware/tree/master/keyboards/handwired/dactyl_lim_5x7
+with a custom keyboard configuration and layout https://github.com/limitium/qmk_firmware/tree/master/keyboards/handwired/dactyl_lim_5x7
 
-Handedness by EEPROM
+Handedness set by EEPROM
 
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/layout_firmware.png)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220519.jpg)
+
+Layout is really basic one and far from an ideal. It's still under construction.
