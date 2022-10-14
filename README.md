@@ -76,7 +76,7 @@ It makes no sense to buy the whole set if a resin printer is available.
 #### Custom KeyV2 
 The missing keycaps are printed on a resin printer and modeled via https://github.com/rsheldiii/KeyV2 project, with https://www.ffonts.net/Gorton-Digital-Regular.font font for chars and https://github.com/dakotafelder/open-gorton font for specials keys.
 
-![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220428.jpg)
+![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220429.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220501.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220519_2.jpg)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220123.jpg)
