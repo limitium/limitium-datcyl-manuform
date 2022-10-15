@@ -10,6 +10,22 @@ This build solves the problem of missing hand rests.
 ![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220822_4.jpg)
 ![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/20220822_10.jpg)
 
+## Table of contents
+- [Limitium' dactyl manuform](#limitium-dactyl-manuform)
+  - [Table of contents](#table-of-contents)
+- [Build](#build)
+  - [BOM](#bom)
+  - [Body](#body)
+    - [Handrest](#handrest)
+    - [Promicro holder](#promicro-holder)
+  - [Keycaps](#keycaps)
+    - [ASA profile](#asa-profile)
+      - [Carbon Retro Keycap Set from Akko](#carbon-retro-keycap-set-from-akko)
+      - [Custom KeyV2](#custom-keyv2)
+  - [Wiring](#wiring)
+  - [Firmware](#firmware)
+
+
 # Build
 
 ## BOM
