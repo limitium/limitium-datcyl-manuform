@@ -71,7 +71,7 @@ Integrated plate is made from a dactyl manuform back plate and a hand rest model
 
 The last type-c Promicro controller is slightly longer, so a new version of the holder is required.
 
-New version is a clue-less click-in holder for TRRS jack and type-c Promicro
+New version is a glue-less click-in holder for TRRS jack and type-c Promicro
 
 ![limitium dactyl manuform](https://raw.githubusercontent.com/limitium/limitium-datcyl-manuform/main/gallery/promicro_holder.png)
 ![limitium dactyl manuform](https://github.com/limitium/limitium-datcyl-manuform/raw/main/gallery/20220517_2.jpg)
